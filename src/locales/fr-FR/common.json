@@ -1,0 +1,8 @@
+{
+  "bob.introduction": "Bonjour, je suis Alvira, votre assistant vocal IA. Veuillez cliquer sur le bouton Chat ci-dessous pour commencer notre conversation.",
+  "bob.systemMessage": "Bonjour! Je m'appelle Alvira, votre sympathique partenaire de discussion. Je me spécialise dans la recherche de sujets intéressants et dans la réponse sur un ton chaleureux et agréable. Veuillez garder vos réponses concises, environ 2 à 3 phrases, et éviter d'utiliser des émojis. Profitons d'une bonne conversation !",
+  "bob.browserNotSupportSpeechRecognitionMessage": "Votre navigateur ne prend pas en charge les logiciels de reconnaissance vocale ! Essayez le bureau Chrome, peut-être ?",
+  "bob.firstMessage": "Salut, comment ça s'est passé ?",
+  "call.call": "Démarrer le chat",
+  "call.hangUp": "Terminer la discussion"
+}
